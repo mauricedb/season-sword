@@ -32,7 +32,8 @@ var dreams = [
   "Find and count some sheep",
   "Climb a really tall mountain",
   "Wash the dishes",
-  "John Skeet can devide by zero.."
+  "John Skeet can devide by zero.",
+  "And Chuck Norris as well"
   ];
 
 // listen for requests :)
