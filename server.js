@@ -33,7 +33,8 @@ var dreams = [
   "Climb a really tall mountain",
   "Wash the dishes",
   "John Skeet can devide by zero.",
-  "And Chuck Norris as well"
+  "And Chuck Norris as well",
+  "Cool stuff."
   ];
 
 // listen for requests :)
